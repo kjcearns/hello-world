@@ -5,3 +5,4 @@ This is crazy - does it really show what has changed or does it show everything?
 ok - last changes
 
 this is it
+damn - making changes in git
